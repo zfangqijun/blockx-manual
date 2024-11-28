@@ -1,15 +1,26 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
+  "index": "Block X 概述",
+  "event": "事件",
+  "shequ": {
+    "title": "EF社区 ↗",
+    "type": "page",
+    "href": "https://shequ.everfn.com",
+    "newWindow": true
+  },
+  "user-agreement": {
+    "title": "用户协议",
     "type": "page"
   },
-  "contact": {
-    "title": "Contact ↗",
+  "privacy-policy": {
+    "title": "隐私政策",
+    "type": "page"
+  },
+  "another": {
+    "display": "hidden"
+  },
+  "about": {
+    "title": "关于我们",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
+    "display": "hidden"
   }
 }

@@ -12,7 +12,7 @@ const config: DocsThemeConfig = {
         fontWeight: "bold",
       }}
     >
-      Block X 在线手册
+      Block X 手册
     </span>
   ),
   head: () => {
@@ -20,7 +20,7 @@ const config: DocsThemeConfig = {
     return (
       <>
         <link rel="icon" href={everfnLogo.src} />
-        <title>{title}</title>
+        <title>{`${title} - Block X 手册`}</title>
       </>
     );
   },

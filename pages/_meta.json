@@ -7,11 +7,11 @@
     "href": "https://shequ.everfn.com",
     "newWindow": true
   },
-  "user-agreement": {
+  "useragreement": {
     "title": "用户协议",
     "type": "page"
   },
-  "privacy-policy": {
+  "privacypolicy": {
     "title": "隐私政策",
     "type": "page"
   },
